@@ -8,6 +8,7 @@ public class HiiJava {
 	public void basic()
 	{
 		System.out.println("changes class for gits sample");
+		System.out.println("changes again");
 	}
 
 }
